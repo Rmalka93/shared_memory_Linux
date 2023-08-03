@@ -1,5 +1,5 @@
 # shared_memory_Linux
-The Buffering Problem - Shared Memorry
+The Buffering Problem - Shared Memory
 
 ==Description==
 
